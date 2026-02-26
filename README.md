@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0.5%20Latest-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/aALbkENtBfUSfu2QZ13RgG.apk)
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0.6%20Latest-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/aALbkENtBfUSfu2QZ13RgG.apk)
 
 </div>
 
