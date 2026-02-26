@@ -2,7 +2,7 @@
   "expo": {
     "name": "LibraryMobile",
     "slug": "LibraryMobile",
-    "version": "1.0.0",
+    "version": "1.0.6",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,24 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.kongrotana.LibraryMobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      ["expo-image-picker", {
+      "photosPermission": "Allow access to select a book cover.",
+      "cameraPermission": "Allow camera to take a book cover photo."
+    }],
+      "expo-sqlite",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a23a16fb-72d0-4578-97ed-c9edc7c4f8a8"
+      }
     }
   }
 }
