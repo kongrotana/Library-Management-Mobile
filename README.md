@@ -9,6 +9,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
+[![Download APK](https://img.shields.io/badge/⬇️_Download_APK-Latest_Release-blue?style=for-the-badge)](https://expo.dev/artifacts/eas/aALbkENtBfUSfu2QZ13RgG.apk)
+
 **Offline-first library management app built with Expo & SQLite**
 
 *Manage books, members, loans and staff — all from your Android device*
@@ -49,6 +51,23 @@
 
 ---
 
+## 📥 Download
+
+> **Android APK — Ready to install**
+
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/⬇️%20Download%20APK-v1.0.5%20Latest-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/aALbkENtBfUSfu2QZ13RgG.apk)
+
+</div>
+
+1. Tap the button above on your Android device
+2. Allow **"Install from unknown sources"** if prompted
+3. Install and open the app
+4. Login with `admin` / `1234`
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -63,7 +82,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/kongrotana/Library-Management-Mobile.git
-cd LibraryMobile
+cd Library-Management-Mobile
 
 # Install dependencies
 npm install
@@ -250,7 +269,7 @@ MIT License — feel free to use and modify for your own projects.
 
 <div align="center">
 
-Made with ❤️ by **Kong Rotana**
+Developer **Kong Rotana**
 
 ⭐ Star this repo if you found it helpful!
 
