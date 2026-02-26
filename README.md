@@ -62,7 +62,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/kongrotana/LibraryMobile.git
+git clone https://github.com/kongrotana/Library-Management-Mobile.git
 cd LibraryMobile
 
 # Install dependencies
